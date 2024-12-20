@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis and problems that are interesting
 - 📫 How to reach me? Just email me @ nievesearl7@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: 
+- ⚡ Fun fact: The sunflower always faces the sun during the daytime, regardless of the sun's angle
 
 <!---
 chhinelas/chhinelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
